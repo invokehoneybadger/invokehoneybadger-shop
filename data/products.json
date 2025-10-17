@@ -1,0 +1,31 @@
+[
+  {
+    "title": "HBV Tee \u2014 Black/Gold",
+    "price": "$28",
+    "image": "assets/img/merch_tshirt.jpg",
+    "slug": "hbv-tee-black-gold",
+    "link": "https://invokehoneybadger.com"
+  },
+  {
+    "title": "HBV Patch \u2014 Velcro",
+    "price": "$12",
+    "image": "assets/img/merch_patch.jpg",
+    "slug": "hbv-patch-velcro",
+    "payment_link": "https://buy.stripe.com/test_1234567890",
+    "checkout": "stripe"
+  },
+  {
+    "title": "HBV Sticker Pack",
+    "price": "$8",
+    "image": "assets/img/merch_stickers.jpg",
+    "slug": "hbv-sticker-pack",
+    "link": "mailto:ops@invokehoneybadger.com?subject=HBV%20Sticker%20Pack"
+  },
+  {
+    "title": "HBV Hat \u2014 Operator",
+    "price": "$32",
+    "image": "assets/img/merch_hat.jpg",
+    "slug": "hbv-hat-operator",
+    "link": "https://invokehoneybadger.com"
+  }
+]

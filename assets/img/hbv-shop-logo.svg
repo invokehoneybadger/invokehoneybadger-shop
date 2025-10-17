@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256">
+<rect width="256" height="256" rx="28" fill="#0a0a0a"/>
+<g fill="none" stroke="#fbee00" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+  <path d="M52 96h152l-12 88H64z"/>
+  <path d="M88 96c0-18 14-32 32-32s32 14 32 32"/>
+  <circle cx="96" cy="196" r="10"/>
+  <circle cx="160" cy="196" r="10"/>
+</g>
+<text x="128" y="236" font-size="20" text-anchor="middle" fill="#fbee00" font-family="Consolas, monospace">HBV · SHOP</text>
+</svg>
